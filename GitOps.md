@@ -8,6 +8,8 @@ Coined by WeaveWorks in 2017, although people were doing it before then without 
 2. Git is the single place where we operate (create, change, destroy, etc.)
 3. All changes are observable / verifiable
 
+
+
 Clusters should be like cattle, not sheep - that means configuration as code; reliable, reproducible, verifiable
 
 ### What's declarative
